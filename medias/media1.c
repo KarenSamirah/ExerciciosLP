@@ -20,8 +20,9 @@ int main()
     }
     else
     {
-        printf("Reprovado!");
+        printf("Reprovado! ");
     }
+    printf(" Até o proximo semestre!!!");
 
-    return(0);
-}
+     return(0);
+} 
